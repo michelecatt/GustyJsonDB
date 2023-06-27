@@ -1,31 +1,7 @@
 {
     "recipes": [
         {
-            "id": 12,
-            "description": "Il primo secondo realizzato da Gusty",
-            "ingredients": [
-                {
-                    "ingredient": "flour",
-                    "qty": 500
-                },
-                {
-                    "ingredient": "sugar",
-                    "qty": 250
-                },
-                {
-                    "ingredient": "eggs",
-                    "qty": 4
-                },
-                {
-                    "ingredient": "butter",
-                    "qty": 200
-                },
-                {
-                    "ingredient": "milk",
-                    "qty": 300
-                }
-            ],
-            "name": "Pollo alla cacciatora V1"
-        },
+            
+        }
     ]
 }
